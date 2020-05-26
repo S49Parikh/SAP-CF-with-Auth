@@ -1,0 +1,8 @@
+{
+  "authenticationMethod": "route",
+  "routes": [ {
+      "source": "^/userui/(.*)$",
+      "target": "$1",
+      "destination": "userui"
+    }]
+}
