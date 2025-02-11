@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"@sap/approuter": "6.8.0",
+		"@sap/approuter": "16.7.2",
 		"@sap/xsenv": "^2.2.0",
 		"@sap/xssec": "^2.2.5",
 		"body-parser": "^1.19.0",
